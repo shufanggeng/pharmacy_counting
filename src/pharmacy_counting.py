@@ -6,7 +6,7 @@ def sortDrugStats(stats):
 	drugs = []
 	for drug in stats.keys():
 		drugs.append([drug, stats[drug]['users'], stats[drug]['total_cost']])
-	sorted(drugs, key=itemgetter(2,1), reverse=True)
+	drugs = sorted(drugs, key=itemgetter(2,1), reverse=True)
 	return drugs
 
 def updateUserSet(userSet, user):
