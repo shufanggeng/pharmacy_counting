@@ -4,6 +4,7 @@
 3. [Instructions](README.md#instructions)
 4. [Output](README.md#output)
 5. [Runnning the tests](README.md#running-the-tests)
+6. [Authors](README.md#authors)
 
 
 
@@ -64,3 +65,6 @@ The test has been run with the following command from within the `insight_testsu
     insight_testsuite~$ ./run_tests.sh 
 passed. 
 
+# Authors
+
+Hoa Nguyen emhoa-Initial work
