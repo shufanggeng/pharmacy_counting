@@ -3,7 +3,7 @@
 2. [Input Dataset](README.md#input-dataset)
 3. [Instructions](README.md#instructions)
 4. [Output](README.md#output)
-5. [Runnning the tests](README.md#running the tests)
+5. [Runnning the tests](README.md#running-the-tests)
 
 
 
