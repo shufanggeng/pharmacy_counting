@@ -6,6 +6,7 @@
 5. [Runnning the tests](README.md#running the tests)
 
 
+
 # Problem
 
 This project is to generate a list of all drugs for an online pharmacy, including the total number of UNIQUE individuals who prescribed the medication, and the total drug cost, which must be listed in descending order based on the total drug cost and if there is a tie, drug name.  
